@@ -9,7 +9,7 @@ ifdef::revealjs_slideshow[]
 Ceph Overview
 
 [#cover-h2]
-Monitoring CEPH Clusters The Easy Way
+CephFS Overview
 
 
 [#cover-logo] 

@@ -1,5 +1,3 @@
 include::m01s00_title.adoc[]
 include::m01s01_ceph_video1.adoc[]
-include::m01s01_ceph_video2.adoc[]
-include::m01s01_ceph_video3.adoc[]
 
