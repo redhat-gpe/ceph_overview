@@ -1,1 +1,40 @@
 QUESTIONBANKCODE|QUESTIONCODE|QUESTIONTYPE|QUESTIONTEXT|QUESTIONTEXTFORMAT|QUESTIONFEEDBACK|OPTION|RIGHTOPTION|OPTIONFEEDBACK|ISCORRECT|OPTIONWEIGHT|ISCASESENSITIVE|RANDOMIZEOPTIONS|STATUS
+CEPHOVERVIEW|CEPHOVERVIEW0101|5|Customers struggle with Ceph counters, because there are too many counters available and many are not well documented.
+|||FALSE|||0|0|||
+CEPHOVERVIEW|CEPHOVERVIEW0101|5|Customers struggle with Ceph counters, because there are too many counters available and many are not well documented.|||TRUE|||1|100|||
+CEPHOVERVIEW|CEPHOVERVIEW0102|5|'cephmetrics' offers a simple solution that adds value to today's customers and helps to focus further console development.
+|||FALSE|||0|0|||
+CEPHOVERVIEW|CEPHOVERVIEW0102|5|'cephmetrics' offers a simple solution that adds value to today's customers and helps to focus further console development.
+|||TRUE|||1|100|||
+CEPHOVERVIEW|CEPHOVERVIEW0103|1|Which of the following is a design principle of 'cephmetrics'?|||Use meaningful visualizations|||0|0|||
+CEPHOVERVIEW|CEPHOVERVIEW0103|1|Which of the following is a design principle of 'cephmetrics'?|||Combine Ceph and OS level metrics|||0|0|||
+CEPHOVERVIEW|CEPHOVERVIEW0103|1|Which of the following is a design principle of 'cephmetrics'?|||Identify key metrics that are important to customers|||0|0|||
+CEPHOVERVIEW|CEPHOVERVIEW0103|1|Which of the following is a design principle of 'cephmetrics'?|||All of the above|||1|100|||
+CEPHOVERVIEW|CEPHOVERVIEW0104|5|Graphite is considered the best product in its class from a visualization perspective.|||FALSE|||1|100|||
+CEPHOVERVIEW|CEPHOVERVIEW0104|5|Graphite is considered the best product in its class from a visualization perspective.|||TRUE|||0|0|||
+CEPHOVERVIEW|CEPHOVERVIEW0105|1|Which of the following is not a feature of the Graphite/Carbon component?|||Leading open source visualization/monitoring platform|||1|100|||
+CEPHOVERVIEW|CEPHOVERVIEW0105|1|Which of the following is not a feature of the Graphite/Carbon component?|||Integration with Grafana and 'collectd'|||0|0|||
+CEPHOVERVIEW|CEPHOVERVIEW0105|1|Which of the following is not a feature of the Graphite/Carbon component?|||Widely adopted (whisper tsdb)|||0|0|||
+CEPHOVERVIEW|CEPHOVERVIEW0105|1|Which of the following is not a feature of the Graphite/Carbon component?|||HA support with relay|||0|0|||
+CEPHOVERVIEW|CEPHOVERVIEW0106|5|The main benefit of the 'cephmetrics' plug-in is that it extracts role-specific data from MONs, OSDs, and RGWs.|||FALSE|||0|0|||
+CEPHOVERVIEW|CEPHOVERVIEW0106|5|The main benefit of the 'cephmetrics' plug-in is that it extracts role-specific data from MONs, OSDs, and RGWs.|||TRUE|||1|100|||
+CEPHOVERVIEW|CEPHOVERVIEW0107|5|The third layer of the At-a-Glance dashboard is Ceph side performance metrics.|||FALSE|||1|100|||
+CEPHOVERVIEW|CEPHOVERVIEW0107|5|The third layer of the At-a-Glance dashboard is Ceph side performance metrics.|||TRUE|||0|0|||
+CEPHOVERVIEW|CEPHOVERVIEW0108|1|Which of the following is a true statement regarding the 'collectd' plug-in?|||Not all counters are stored|||0|0|||
+CEPHOVERVIEW|CEPHOVERVIEW0108|1|Which of the following is a true statement regarding the 'collectd' plug-in?|||Each host can have multiple roles|||0|0|||
+CEPHOVERVIEW|CEPHOVERVIEW0108|1|Which of the following is a true statement regarding the 'collectd' plug-in?|||Daemons can be stopped or started without impacting 'collectd'|||0|0|||
+CEPHOVERVIEW|CEPHOVERVIEW0108|1|Which of the following is a true statement regarding the 'collectd' plug-in?|||All of the above|||1|100|||
+CEPHOVERVIEW|CEPHOVERVIEW0109|5|The data source of the iSCSI data source is LIO via 'python rtslib_fb.'|||FALSE|||0|0|||
+CEPHOVERVIEW|CEPHOVERVIEW0109|5|The data source of the iSCSI data source is LIO via 'python rtslib_fb.'|||TRUE|||1|100|||
+CEPHOVERVIEW|CEPHOVERVIEW0110|5|OSD count is the primary consideration of hardware planning.|||FALSE|||0|0|||
+CEPHOVERVIEW|CEPHOVERVIEW0110|5|OSD count is the primary consideration of hardware planning.|||TRUE|||1|100|||
+CEPHOVERVIEW|CEPHOVERVIEW0111|5|As OSDs increase, the IOPS demand decreases.|||FALSE|||1|100|||
+CEPHOVERVIEW|CEPHOVERVIEW0111|5|As OSDs increase, the IOPS demand decreases.|||TRUE|||0|0|||
+CEPHOVERVIEW|CEPHOVERVIEW0112|5|The primary reason for using the IOPS demand is because metrics need to be written through Carbon and
+stored on a file system.|||FALSE|||0|0|||
+CEPHOVERVIEW|CEPHOVERVIEW0112|5|The primary reason for using the IOPS demand is because metrics need to be written through Carbon and
+stored on a file system.|||TRUE|||1|100|||
+CEPHOVERVIEW|CEPHOVERVIEW0113|1|If health text details are not annotating the health chart on the Ceph Health dashboard, you can troubleshoot this by checking which of the following?|||Checking that NTP is configured and active across all nodes|||0|0|||
+CEPHOVERVIEW|CEPHOVERVIEW0113|1|If health text details are not annotating the health chart on the Ceph Health dashboard, you can troubleshoot this by checking which of the following?|||Checking that 'mon_health_preluminous_compat=true' is set in the 'global' section of ceph.conf|||1|100|||
+CEPHOVERVIEW|CEPHOVERVIEW0113|1|If health text details are not annotating the health chart on the Ceph Health dashboard, you can troubleshoot this by checking which of the following?|||Extending the timeframe of the panel|||0|0|||
+CEPHOVERVIEW|CEPHOVERVIEW0113|1|If health text details are not annotating the health chart on the Ceph Health dashboard, you can troubleshoot this by checking which of the following?|||All of the above|||0|0|||

@@ -1,1 +1,27 @@
 QUESTIONBANKCODE|QUESTIONCODE|QUESTIONTYPE|QUESTIONTEXT|QUESTIONTEXTFORMAT|QUESTIONFEEDBACK|OPTION|RIGHTOPTION|OPTIONFEEDBACK|ISCORRECT|OPTIONWEIGHT|ISCASESENSITIVE|RANDOMIZEOPTIONS|STATUS
+CEPHOVERVIEW|CEPHOVERVIEW0201|5|The 'targetcli' command replaces 'target' daemon.|||FALSE|||1|100|||
+CEPHOVERVIEW|CEPHOVERVIEW0201|5|The 'targetcli' command replaces 'target' daemon.|||TRUE|||0|0|||
+CEPHOVERVIEW|CEPHOVERVIEW0202|5|Ansible is a direct consumer of the configuration modules.|||FALSE|||0|0|||
+CEPHOVERVIEW|CEPHOVERVIEW0202|5|Ansible is a direct consumer of the configuration modules.|||TRUE|||1|100|||
+CEPHOVERVIEW|CEPHOVERVIEW0203|1|To access the API, you need to do which of the following?|||Be in the IP whitelist|||0|0|||
+CEPHOVERVIEW|CEPHOVERVIEW0203|1|To access the API, you need to do which of the following?|||Have the correct username/password|||0|0|||
+CEPHOVERVIEW|CEPHOVERVIEW0203|1|To access the API, you need to do which of the following?|||Have the gateways cert installed on your local machine|||0|0|||
+CEPHOVERVIEW|CEPHOVERVIEW0203|1|To access the API, you need to do which of the following?|||All of the above|||1|100|||
+CEPHOVERVIEW|CEPHOVERVIEW0204|5|It is important to make sure iSCSI gateways and clients communicate over the same network as Ceph.|||FALSE|||1|100|||
+CEPHOVERVIEW|CEPHOVERVIEW0204|5|It is important to make sure iSCSI gateways and clients communicate over the same network as Ceph.|||TRUE|||0|0|||
+CEPHOVERVIEW|CEPHOVERVIEW0205|1|Which is a correct statement regarding LIO architecture?|||'targetcli' talks to the component of the 'tslib_fb' library called rtslib_fb|||0|0|||
+CEPHOVERVIEW|CEPHOVERVIEW0205|1|Which is a correct statement regarding LIO architecture?|||'taregcli' is the interaction point for the administrator|||0|0|||
+CEPHOVERVIEW|CEPHOVERVIEW0205|1|Which is a correct statement regarding LIO architecture?|||LIO has a core module and supports local fabrics|||0|0|||
+CEPHOVERVIEW|CEPHOVERVIEW0205|1|Which is a correct statement regarding LIO architecture?|||All of the above|||1|100|||
+CEPHOVERVIEW|CEPHOVERVIEW0206|5|The LIO subsystem provides functionality to iSCI.|||FALSE|||0|0|||
+CEPHOVERVIEW|CEPHOVERVIEW0206|5|The LIO subsystem provides functionality to iSCI.|||TRUE|||1|100|||
+CEPHOVERVIEW|CEPHOVERVIEW0207|5|CEPH/iSCSI can have a maximum of 2 active portals.|||FALSE|||1|100|||
+CEPHOVERVIEW|CEPHOVERVIEW0207|5|CEPH/iSCSI can have a maximum of 2 active portals.|||TRUE|||0|0|||
+CEPHOVERVIEW|CEPHOVERVIEW0208|1|What is the recommended network bandwidth of CEPH/iSCSI?|||5g|||0|0|||
+CEPHOVERVIEW|CEPHOVERVIEW0208|1|What is the recommended network bandwidth of CEPH/iSCSI?|||10g|||1|100|||
+CEPHOVERVIEW|CEPHOVERVIEW0208|1|What is the recommended network bandwidth of CEPH/iSCSI?|||20g|||0|0|||
+CEPHOVERVIEW|CEPHOVERVIEW0208|1|What is the recommended network bandwidth of CEPH/iSCSI?|||30g|||0|0|||
+CEPHOVERVIEW|CEPHOVERVIEW0209|1|Which of the following is an incorrect statement regarding the four custom Ansible modes?|||The igw_purge module manages RBD images and LUN definitions to LIO|||1|100|||
+CEPHOVERVIEW|CEPHOVERVIEW0209|1|Which of the following is an incorrect statement regarding the four custom Ansible modes?|||The igw_client module manages the client ModeACL definitions|||0|0|||
+CEPHOVERVIEW|CEPHOVERVIEW0209|1|Which of the following is an incorrect statement regarding the four custom Ansible modes?|||The igw_gateway module creates and maintains the iSCSI target entry and the target LUN maps|||0|0|||
+CEPHOVERVIEW|CEPHOVERVIEW0209|1|Which of the following is an incorrect statement regarding the four custom Ansible modes?|||None of the above|||0|0|||

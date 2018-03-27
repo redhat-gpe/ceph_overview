@@ -1,1 +1,23 @@
 QUESTIONBANKCODE|QUESTIONCODE|QUESTIONTYPE|QUESTIONTEXT|QUESTIONTEXTFORMAT|QUESTIONFEEDBACK|OPTION|RIGHTOPTION|OPTIONFEEDBACK|ISCORRECT|OPTIONWEIGHT|ISCASESENSITIVE|RANDOMIZEOPTIONS|STATUS
+CEPHOVERVIEW|CEPHOVERVIEW0301|5|CephFS is a file system compatible with POSIX standards that provides a file access to a Ceph Storage cluster.|||FALSE|||0|0|||
+CEPHOVERVIEW|CEPHOVERVIEW0301|5|CephFS is a file system compatible with POSIX standards that provides a file access to a Ceph Storage cluster.|||TRUE|||1|100|||
+CEPHOVERVIEW|CEPHOVERVIEW0302|5|MDS is not a critical component of CephFS.|||FALSE|||1|100|||
+CEPHOVERVIEW|CEPHOVERVIEW0302|5|MDS is not a critical component of CephFS.|||TRUE|||0|0|||
+CEPHOVERVIEW|CEPHOVERVIEW0303|1|Which of the following is a benefit of CephFS?|||Scale-out metadata performance|||0|0|||
+CEPHOVERVIEW|CEPHOVERVIEW0303|1|Which of the following is a benefit of CephFS?|||OpenStack Manila integration|||0|0|||
+CEPHOVERVIEW|CEPHOVERVIEW0303|1|Which of the following is a benefit of CephFS?|||Sharing infrastructure with RADOS Block Device and RADOS Gateway deployments|||0|0|||
+CEPHOVERVIEW|CEPHOVERVIEW0303|1|Which of the following is a benefit of CephFS?|||All of the above|||1|100|||
+CEPHOVERVIEW|CEPHOVERVIEW0304|1|Which of the following is NOT a main feature of CephFS?|||Snapshots|||1|100|||
+CEPHOVERVIEW|CEPHOVERVIEW0304|1|Which of the following is NOT a main feature of CephFS?|||Configurable file and directory layouts|||0|0|||
+CEPHOVERVIEW|CEPHOVERVIEW0304|1|Which of the following is NOT a main feature of CephFS?|||Shared file system|||0|0|||
+CEPHOVERVIEW|CEPHOVERVIEW0304|1|Which of the following is NOT a main feature of CephFS?|||Scalability|||0|0|||
+CEPHOVERVIEW|CEPHOVERVIEW0305|1|Which of the following is a FALSE statement about MDS ranks?|||MDS only gives up rank when processes stop|||0|0|||
+CEPHOVERVIEW|CEPHOVERVIEW0305|1|Which of the following is a FALSE statement about MDS ranks?|||Ranks define the way the metadata workload is shared between multiple active MDS daemons|||0|0|||
+CEPHOVERVIEW|CEPHOVERVIEW0305|1|Which of the following is a FALSE statement about MDS ranks?|||The active MDS is rank 1|||1|100|||
+CEPHOVERVIEW|CEPHOVERVIEW0305|1|Which of the following is a FALSE statement about MDS ranks?|||More ranks are created as MDS count increases|||0|0|||
+CEPHOVERVIEW|CEPHOVERVIEW0306|1|Which of the following is a type of standby configuration for MDS daemons?|||Standby for Name|||0|0|||
+CEPHOVERVIEW|CEPHOVERVIEW0306|1|Which of the following is a type of standby configuration for MDS daemons?|||Standby for Rank|||0|0|||
+CEPHOVERVIEW|CEPHOVERVIEW0306|1|Which of the following is a type of standby configuration for MDS daemons?|||Standby for FSCID|||0|0|||
+CEPHOVERVIEW|CEPHOVERVIEW0306|1|Which of the following is a type of standby configuration for MDS daemons?|||All of the above|||1|100|||
+CEPHOVERVIEW|CEPHOVERVIEW0307|5|MDS daemons enter and remain in a standby state until you create a file system.|||FALSE|||0|0|||
+CEPHOVERVIEW|CEPHOVERVIEW0307|5|MDS daemons enter and remain in a standby state until you create a file system.|||TRUE|||1|100|||
